@@ -1,0 +1,7 @@
+spring:
+  rsocket:
+    server:
+      port: 6561
+
+server:
+  port: 6560
